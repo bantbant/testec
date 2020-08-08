@@ -2,6 +2,6 @@
 
 int main(){
    printf("novo!");
-   printf("segunda linha do novo");
+   printf("segunda linha do novo ");
 
 }
