@@ -11,10 +11,5 @@ int main(){
    // esse é o novo código
    // esse foi depois do commit
    // nova linha feita no site 15:55
-<<<<<<< HEAD
-   // essa linha é do VS CODE
-=======
-
-   // essa linha veio do repl.it
->>>>>>> dbe70d451d3091dbfec56bded0d5a79c87f6e0af
+   // essa linha é do VS CODE32323
 }
