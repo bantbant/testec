@@ -2,4 +2,5 @@
 
 int main(){
    printf("novo!");
+   printf("linha adicionada no visual studio");
 }
