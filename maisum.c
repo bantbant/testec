@@ -6,4 +6,9 @@ int main(){
    printf("Segunda linha adicionada no visual studio");
    printf("Terceira linha adicionada");
    printf("Quarta linha adicionada");
+   printf("antigo!");
+   printf("1245");
+   // esse é o novo código
+   // esse foi depois do commit
+   // nova linha feita no site 15:55
 }
