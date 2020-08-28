@@ -2,8 +2,6 @@
 
 int main(){
    printf("novo!");
-   printf("linha adicionada no visual studio");
-   printf("Segunda linha adicionada no visual studio");
-   printf("Terceira linha adicionada");
-   printf("Quarta linha adicionada");
+   printf("1245");
+   // esse é o novo código
 }
